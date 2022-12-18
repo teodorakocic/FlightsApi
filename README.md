@@ -5,6 +5,7 @@ The goal of this project was to upgrade my knowledge of Rust programming languag
 If you want to run this application localy position yourself in the main folder (flights_api) and run commands respectively: cargo build cargo run
 
 Prerequisite for successfully running this application is to have Rust installation setup and account on MongoDB.
+Correctness and tracking the queries is possible by using Postman. 
 
 
 
